@@ -41,15 +41,14 @@ export default function Navbar() {
 
         <a
           href="#o-que-vem"
+          className="nav-pack-link"
           style={{
             fontFamily: "var(--font-sans)",
             fontSize: "0.8125rem",
             fontWeight: 600,
             color: "var(--color-text-muted)",
             textDecoration: "none",
-            display: "none",
           }}
-          className="md:inline"
         >
           O que vem no pack
         </a>

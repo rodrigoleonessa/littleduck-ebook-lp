@@ -7,12 +7,8 @@ import Produto from "@/components/sections/Produto";
 import Transformacao from "@/components/sections/Transformacao";
 import OQueVemNoPack from "@/components/sections/OQueVemNoPack";
 import ValorDenso from "@/components/sections/ValorDenso";
-import ValorPercebido from "@/components/sections/ValorPercebido";
-import Oferta from "@/components/sections/Oferta";
-import Urgencia from "@/components/sections/Urgencia";
 import Garantia from "@/components/sections/Garantia";
 import Depoimentos from "@/components/sections/Depoimentos";
-import CtaFinal from "@/components/sections/CtaFinal";
 import Faq from "@/components/sections/Faq";
 import Fechamento from "@/components/sections/Fechamento";
 import Footer from "@/components/sections/Footer";
@@ -32,12 +28,8 @@ export default function Home() {
         <Transformacao />
         <OQueVemNoPack />
         <ValorDenso />
-        <ValorPercebido />
-        <Oferta />
-        <Urgencia />
         <Garantia />
         <Depoimentos />
-        <CtaFinal />
         <Faq />
         <Fechamento />
       </main>

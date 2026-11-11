@@ -221,26 +221,16 @@ export const ebooks = [
 ];
 
 export const valorDenso = {
-  headline: "Uma biblioteca prática para várias fases da rotina com crianças.",
-  whenLines: [
-    "Use quando a criança pede tela.",
-    "Quando a birra começa.",
-    "Quando a manhã atrasa.",
-    "Quando a hora de dormir vira guerra.",
-    "Quando você perde a paciência.",
-    "Quando falta ideia para brincar.",
-    "Quando você quer ensinar autonomia, mas não sabe por onde começar.",
+  headline: "O melhor investimento para transformar sua rotina em casa.",
+  priceFrom: "R$547",
+  priceTo: "R$37",
+  subPrice: "PAGAMENTO ÚNICO",
+  cta: "Quero Aproveitar Agora",
+  guarantees: [
+    "Acesso imediato após a compra",
+    "Acesso vitalício ao conteúdo",
+    "7 dias de garantia ou seu dinheiro de volta",
   ],
-  recebe: [
-    "Guias educativos",
-    "Workbooks imprimíveis",
-    "Checklists e planners",
-    "Atividades Montessori",
-    "Planos de 14, 21 e 30 dias",
-    "Exercícios práticos",
-    "Conteúdo para pais, mães, casal e criança",
-  ],
-  tagline: "Compre uma vez e volte sempre que uma nova fase aparecer.",
 };
 
 export const valorPercebido = {
@@ -281,14 +271,14 @@ export const urgencia = {
 };
 
 export const garantia = {
-  headline: "Teste por 7 dias. Se não fizer sentido, peça reembolso.",
-  body: "Acesse os materiais, veja os conteúdos e avalie com calma. Se em até 7 dias você entender que o pack não é para você, solicite o reembolso conforme as regras da plataforma.",
-  strong: "Sem letra miúda. Sem constrangimento. Sem complicação.",
+  headline: "Garantia incondicional",
+  body: "Você tem 7 dias para acessar, explorar e aplicar. Se por qualquer motivo achar que não é para você, é só enviar um e-mail e devolvemos 100% do seu dinheiro. Sem burocracia, sem perguntas.",
+  strong: "",
   cta: "Quero Acessar com Garantia",
 };
 
 export const depoimentos = {
-  headline: "O que mães e pais costumam sentir quando têm um caminho prático",
+  headline: "O que outras mães estão dizendo",
   quotes: [
     {
       text: "Eu estava perdida com as birras e sempre achava que precisava escolher entre gritar ou ceder. O material me mostrou um caminho mais leve.",
@@ -337,49 +327,45 @@ export const ctaFinal = {
 
 export const faq = [
   {
-    q: "Esse material é físico ou digital?",
-    a: "É digital. Após a confirmação da compra, você recebe acesso aos ebooks e materiais do pack.",
+    q: "Como recebo o acesso?",
+    a: "Após a confirmação do pagamento, você recebe um e-mail com o link de acesso aos materiais. O acesso é imediato — normalmente chega em poucos minutos.",
   },
   {
-    q: "Posso imprimir?",
-    a: "Sim. Muitos materiais podem ser impressos, principalmente checklists, planners, exercícios e atividades Montessori.",
+    q: "Por quanto tempo terei acesso?",
+    a: "O acesso é vitalício. Você pode acessar os materiais quando quiser, no seu ritmo, sem prazo de expiração.",
   },
   {
-    q: "Serve para qual idade?",
-    a: "Principalmente para famílias com bebês e crianças pequenas, de 0 a 7 anos.",
+    q: "Consigo baixar os materiais?",
+    a: "Sim. Os ebooks e materiais podem ser baixados e salvos no seu dispositivo. Checklists, planners e atividades Montessori também podem ser impressos.",
   },
   {
-    q: "Preciso ler tudo de uma vez?",
-    a: "Não. Comece pelo tema mais urgente da sua casa: telas, birras, rotina, sono, autonomia, cansaço ou atividades.",
+    q: "O conteúdo é apenas para mães?",
+    a: "Não. O pack foi pensado para qualquer pessoa que cuida de crianças pequenas — mães, pais, avós e cuidadores. Os temas são universais.",
   },
   {
-    q: "Funciona mesmo se eu estiver cansada?",
-    a: "Sim. A proposta é aplicar pequenas mudanças possíveis, sem perfeição e sem culpa.",
+    q: "E se eu não gostar do conteúdo?",
+    a: "Você tem 7 dias de garantia incondicional. Se por qualquer motivo não ficar satisfeita, basta enviar um e-mail e devolvemos 100% do seu dinheiro, sem perguntas.",
   },
   {
-    q: "Educação positiva é deixar a criança fazer tudo?",
-    a: "Não. Educação positiva envolve respeito, conexão e limites claros.",
+    q: "Serve para qual faixa etária?",
+    a: "O conteúdo é voltado principalmente para famílias com crianças de 0 a 7 anos, mas muitos temas — como comunicação, limites e rotina — se aplicam a idades maiores também.",
   },
   {
-    q: "Preciso comprar materiais caros?",
-    a: "Não. As atividades usam itens simples de casa, como papel, lápis, potes, colheres, massinha, tampinhas, caixas e brinquedos.",
-  },
-  {
-    q: "Substitui terapia, pediatra ou profissional especializado?",
-    a: "Não. O conteúdo é educativo e informativo. Em casos importantes de saúde, desenvolvimento, sono, alimentação ou comportamento, procure orientação profissional.",
-  },
-  {
-    q: "Tem garantia?",
-    a: "Sim. Você tem 7 dias para avaliar e solicitar reembolso conforme as regras da plataforma.",
+    q: "Preciso comprar materiais especiais?",
+    a: "Não. As atividades usam itens simples de casa: papel, lápis, potes, massinha, caixas e brinquedos que você já tem.",
   },
 ];
 
 export const fechamento = {
-  headline1: "Seu filho não precisa de uma mãe perfeita.",
-  headline2: "Ele precisa de mais calma, presença e direção.",
-  body: "E você não precisa continuar tentando descobrir tudo sozinha. O Pack Premium de Guias para Pais entrega clareza, repertório e ferramentas práticas para os momentos mais importantes da rotina com crianças.",
-  priceFrom: "De R$547",
-  priceTo: "R$37",
-  cta: "Quero Meu Pack Agora",
-  final: "A infância está acontecendo agora. Comece por uma pequena mudança hoje.",
+  lines: [
+    "Transforme sua rotina.",
+    "Transforme sua família.",
+    "Transforme a relação com seu filho.",
+  ],
+  cta: "Quero Garantir Meu Pack Agora",
+  trust: [
+    "Compra segura",
+    "Ambiente protegido",
+    "Seus dados 100% seguros",
+  ],
 };
